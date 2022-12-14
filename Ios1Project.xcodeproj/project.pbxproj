@@ -17,6 +17,7 @@
 		C20BFD44292AE2AB001D39A3 /* rank.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20BFD43292AE2AB001D39A3 /* rank.swift */; };
 		C20BFD46292AE2BB001D39A3 /* database.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20BFD45292AE2BB001D39A3 /* database.swift */; };
 		C20BFD48292AE2C8001D39A3 /* level.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20BFD47292AE2C8001D39A3 /* level.swift */; };
+		C23DEAAF293EE674009EC87B /* guessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C23DEAAE293EE674009EC87B /* guessViewController.swift */; };
 		C26A325A2928232D00C77523 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26A32592928232D00C77523 /* AppDelegate.swift */; };
 		C26A325C2928232D00C77523 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26A325B2928232D00C77523 /* SceneDelegate.swift */; };
 		C26A325E2928232D00C77523 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26A325D2928232D00C77523 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 		C20BFD43292AE2AB001D39A3 /* rank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rank.swift; sourceTree = "<group>"; };
 		C20BFD45292AE2BB001D39A3 /* database.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = database.swift; sourceTree = "<group>"; };
 		C20BFD47292AE2C8001D39A3 /* level.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = level.swift; sourceTree = "<group>"; };
+		C23DEAAE293EE674009EC87B /* guessViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = guessViewController.swift; sourceTree = "<group>"; };
 		C26A32562928232D00C77523 /* Ios1Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ios1Project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C26A32592928232D00C77523 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C26A325B2928232D00C77523 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,7 +80,6 @@
 				EA2F3F4CD7D8FEB2CB74355B /* Pods-Ios1Project.debug.xcconfig */,
 				C02BCD199329A7E48072C102 /* Pods-Ios1Project.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -114,6 +115,7 @@
 				C20BFD45292AE2BB001D39A3 /* database.swift */,
 				C20BFD47292AE2C8001D39A3 /* level.swift */,
 				C2B3A38729303D1100931A14 /* CoinExchange.swift */,
+				C23DEAAE293EE674009EC87B /* guessViewController.swift */,
 				C26A325F2928232D00C77523 /* Main.storyboard */,
 				C26A32622928232D00C77523 /* Assets.xcassets */,
 				C26A32642928232E00C77523 /* LaunchScreen.storyboard */,
@@ -248,6 +250,7 @@
 				C26A326E29282F6E00C77523 /* ViewController2.swift in Sources */,
 				C20BFD42292AE29D001D39A3 /* home.swift in Sources */,
 				C26A325A2928232D00C77523 /* AppDelegate.swift in Sources */,
+				C23DEAAF293EE674009EC87B /* guessViewController.swift in Sources */,
 				C20BFD46292AE2BB001D39A3 /* database.swift in Sources */,
 				C26A325C2928232D00C77523 /* SceneDelegate.swift in Sources */,
 				C20BFD3E292AC98D001D39A3 /* guess.swift in Sources */,
